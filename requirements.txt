@@ -1,0 +1,8 @@
+scipy
+imutils
+pygame
+pyttsx3
+dlib
+opencv-python
+requests
+geocoder
